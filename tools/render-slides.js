@@ -1,13 +1,15 @@
 // Renderiza slides HTML (1080x1350) para JPEG com as fontes da Destaca embutidas.
 // Uso: npm i @fontsource/archivo@5.0.19 @fontsource/inter@5.0.18  (na pasta onde corres o script)
-//      node render-slides.js <pasta-com-01.html..07.html> <pasta-de-saida>
+//      node render-slides.js <pasta-com-html> <pasta-de-saida> [LARGURAxALTURA]
+//      Carrossel: 1080x1350 (por omissão). Story: 1080x1920.
 // Nos HTML usa font-family "Archivo" e "Inter" sem <link> do Google Fonts (está bloqueado no ambiente).
 // Para o logo usa o SVG inline descrito na skill destaca-carrosseis.
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
 
-const [inDir, outDir] = process.argv.slice(2);
+const [inDir, outDir, size = '1080x1350'] = process.argv.slice(2);
+const [W, H] = size.split('x').map(Number);
 if (!inDir || !outDir) { console.error('uso: node render-slides.js <in> <out>'); process.exit(1); }
 const fontRoot = path.join(process.cwd(), 'node_modules', '@fontsource');
 const face = (file, fam, w) =>
@@ -21,7 +23,7 @@ const css = '<style>' +
   fs.mkdirSync(outDir, { recursive: true });
   const files = fs.readdirSync(inDir).filter(f => f.endsWith('.html')).sort();
   const browser = await chromium.launch();
-  const page = await browser.newPage({ viewport: { width: 1080, height: 1350 } });
+  const page = await browser.newPage({ viewport: { width: W, height: H } });
   for (const f of files) {
     let html = fs.readFileSync(path.join(inDir, f), 'utf8')
       .replace(/<link[^>]*fonts\.g[^>]*>/g, '');
@@ -29,7 +31,7 @@ const css = '<style>' +
     await page.setContent(html, { waitUntil: 'load' });
     await page.evaluate(() => document.fonts.ready);
     const out = path.join(outDir, f.replace(/\.html$/, '.jpg'));
-    await page.screenshot({ path: out, type: 'jpeg', quality: 90, clip: { x: 0, y: 0, width: 1080, height: 1350 } });
+    await page.screenshot({ path: out, type: 'jpeg', quality: 90, clip: { x: 0, y: 0, width: W, height: H } });
     console.log(out);
   }
   await browser.close();
