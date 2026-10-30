@@ -5,7 +5,7 @@ Os vídeos chegam do Afonso pelo chat; a edição (legendas + final da marca + l
 
 Regra de destino (pela duração do vídeo final):
 - **mais de 15 s → reel**: sai num horário de carrossel (ter 20:30, qua 13:00, qui 8:30), alternando com os carrosséis (ver `feed.md`).
-- **15 s ou menos → story**: substitui o story de imagem das 12:37 nesse dia.
+- **15 s ou menos → story**: às 12:37, alternando com os stories de imagem — se o último story em `stories/registo.md` foi `vídeo`, hoje é imagem; se foi imagem e há story de vídeo por publicar, hoje é vídeo.
 Publica-se sempre o mais antigo "por publicar" do tipo certo. Ao publicar, troca o estado para `publicado AAAA-MM-DD`.
 
 Formato: `slug | tipo | duração | adicionado | estado`
