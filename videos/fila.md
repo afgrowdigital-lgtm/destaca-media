@@ -16,3 +16,8 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - site-lento-perde-clientes | reel | 21.7 s | 2026-10-30 | por publicar
 - mito-so-instagram | reel | 21.9 s | 2026-10-30 | por publicar
 - antes-depois-botao-contacto | reel | 21.0 s | 2026-10-30 | por publicar
+- dica-telefone-no-topo | story | 11.3 s | 2026-10-30 | por publicar
+- mito-mais-paginas | story | 11.1 s | 2026-10-30 | por publicar
+- pergunta-chamadas-google | story | 11.9 s | 2026-10-30 | por publicar
+- erro-fotos-de-banco | story | 11.5 s | 2026-10-30 | por publicar
+- site-que-diz-o-essencial | story | 9.8 s | 2026-10-30 | por publicar
