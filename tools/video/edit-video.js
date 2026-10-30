@@ -73,10 +73,10 @@ chunks.forEach((c, ci) => {
 });
 
 // Logo da Destaca por cima da marca de água do Gemini (canto inferior direito).
-// Posição por omissão medida nos vídeos do Gemini/Veo 1080x1920; ajustável com "logo": {"x":916,"y":1782,"tam":116}
+// Posição por omissão medida nos vídeos do Gemini/Veo 1080x1920; ajustável com "logo": {"x":910,"y":1768,"tam":128}
 // (x,y = centro). "logo": false desliga.
 const LOGO_SVG = (s) => `<svg viewBox="0 0 844 845" width="${s}" height="${s}"><rect width="844" height="845" fill="#FF7A1F"/><circle cx="355" cy="517" r="146" fill="none" stroke="#050F16" stroke-width="93"/><rect x="455" y="147" width="92" height="516" fill="#050F16"/><rect x="620" y="570" width="92" height="92" fill="#050F16"/></svg>`;
-const lg = cfg.logo === false ? null : Object.assign({ x: 916, y: 1782, tam: 116 }, cfg.logo || {});
+const lg = cfg.logo === false ? null : Object.assign({ x: 910, y: 1768, tam: 128 }, cfg.logo || {});
 const logoHtml = lg ? `<div style="position:absolute;left:${lg.x - lg.tam / 2}px;top:${lg.y - lg.tam / 2}px;width:${lg.tam}px;height:${lg.tam}px;line-height:0;box-shadow:0 4px 18px rgba(5,15,22,.35)">${LOGO_SVG(lg.tam)}</div>` : '';
 
 const capPage = (inner) => `<html><head><style>${FONTS}
