@@ -10,4 +10,4 @@ Publica-se sempre o mais antigo "por publicar" do tipo certo. Ao publicar, troca
 
 Formato: `slug | tipo | duração | adicionado | estado`
 
-- aparece-primeiro-google | story | 9.9 s | 2026-10-29 | por publicar
+- aparece-primeiro-google | story | 9.9 s | 2026-10-29 | publicado 2026-10-30
