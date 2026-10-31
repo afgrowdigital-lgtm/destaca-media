@@ -7,3 +7,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-10-28 | pergunta | Quando atualizaste pela última vez o teu Perfil Google? | publicado
 - 2026-10-29 | erro comum | Não abras o site com "Bem-vindo ao nosso site": diz logo o que fazes e onde | publicado
 - 2026-10-30 | vídeo | aparece-primeiro-google | publicado
+- 2026-10-31 | frase da destaca | O teu cliente não procura o teu nome. Procura o que fazes (e perto de onde está) | publicado
