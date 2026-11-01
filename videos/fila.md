@@ -21,3 +21,13 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - pergunta-chamadas-google | story | 11.9 s | 2026-10-30 | por publicar
 - erro-fotos-de-banco | story | 11.5 s | 2026-10-30 | por publicar
 - site-que-diz-o-essencial | story | 9.8 s | 2026-10-30 | por publicar
+- pede-avaliacoes | reel | 21.1 s | 2026-11-01 | por publicar
+- formulario-tres-campos | reel | 21.9 s | 2026-11-01 | por publicar
+- google-nao-e-so-para-grandes | reel | 22.1 s | 2026-11-01 | por publicar
+- preco-a-partir-de | reel | 20.5 s | 2026-11-01 | por publicar
+- antes-depois-diz-o-que-fazes | reel | 21.7 s | 2026-11-01 | por publicar
+- dica-categoria-principal | story | 11.3 s | 2026-11-01 | por publicar
+- mito-site-chega | story | 11.4 s | 2026-11-01 | por publicar
+- pergunta-horario-feriados | story | 11.4 s | 2026-11-01 | por publicar
+- erro-responder-tarde | story | 12.1 s | 2026-11-01 | por publicar
+- site-trabalha-24h | story | 10.5 s | 2026-11-01 | por publicar
