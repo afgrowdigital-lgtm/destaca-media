@@ -1,0 +1,25 @@
+Um pedido de orçamento que chega às 22h e só tem resposta no dia seguinte ao meio-dia muitas vezes já foi para a concorrência.
+Mas pôr um robô a fingir que és tu também não resolve.
+
+Para um pequeno negócio, a IA funciona melhor como assistente do que como substituto.
+
+Um fluxo simples:
+
+1. O pedido chega pelo formulário do site.
+2. Sai logo uma resposta automática e honesta: "Recebemos o teu pedido. Respondemos até amanhã às 10h."
+3. A IA prepara um rascunho com base nos teus serviços e preços.
+4. Tu lês, corriges e envias.
+
+O cliente sabe que foi ouvido logo. A resposta final continua a ser tua, com o teu tom.
+
+Há dois cuidados de que não abdico.
+
+Não colar dados pessoais de clientes numa ferramenta sem saber onde ficam guardados nem para que são usados.
+
+E nunca deixar a IA prometer preços ou prazos sem passares os olhos primeiro.
+
+A automação boa é a que o cliente nem nota. A má é a que o faz sentir que falou com uma parede.
+
+Que parte das respostas a clientes te come mais tempo hoje?
+
+#InteligenciaArtificial #Automacao #PequenosNegocios

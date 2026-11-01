@@ -1,0 +1,28 @@
+Most small business contact forms ask for things nobody will ever use.
+Date of birth. Full address. A phone number marked "required" when you only ever reply by email.
+
+Every extra field does two things.
+
+It makes people less likely to finish the form.
+And it hands you more personal data to look after under GDPR.
+
+The principle has a name: data minimisation. Collect only what you need for the purpose you've told people about.
+
+When I plan a page, I ask one question about every field: "What will you actually do with this?"
+
+No clear answer? It goes.
+
+A check you can do in ten minutes:
+
+1. List every field on your form.
+2. Mark the ones you really use to reply or to quote.
+3. Delete the rest, or make them optional.
+4. Add one line under the button saying what the data is for and how long you keep it.
+
+Do this honestly and most forms shrink to three or four fields: name, a way to reply, and the message.
+
+Shorter form, less risk, and visitors can see you've thought about their data. That's a trust signal that costs nothing.
+
+Which field on your form would you struggle to justify?
+
+#GDPR #WebDesign #SmallBusiness
