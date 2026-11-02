@@ -9,3 +9,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-10-30 | vídeo | aparece-primeiro-google | publicado
 - 2026-10-31 | frase da destaca | O teu cliente não procura o teu nome. Procura o que fazes (e perto de onde está) | publicado
 - 2026-11-01 | vídeo | dica-telefone-no-topo | publicado
+- 2026-11-02 | dica do dia | Morada e telefone iguais no site e no Google (dados diferentes confundem o Google) | publicado
