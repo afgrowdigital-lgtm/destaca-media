@@ -11,3 +11,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-01 | vídeo | dica-telefone-no-topo | publicado
 - 2026-11-02 | dica do dia | Morada e telefone iguais no site e no Google (dados diferentes confundem o Google) | publicado
 - 2026-11-03 | vídeo | mito-mais-paginas | publicado
+- 2026-11-04 | pergunta | Que palavras escrevem os teus clientes no Google para te encontrar? | publicado
