@@ -6,3 +6,4 @@ Regra de alternância: num horário de feed, se a última linha for `carrossel` 
 - 2026-10-28 | carrossel | posts/2026-10-28-invisivel-no-google
 - 2026-10-28 | carrossel | posts/2026-10-28-4-mitos-sites
 - 2026-10-28 | carrossel | posts/2026-10-28-anatomia-pagina-que-vende
+- 2026-11-04 | reel | videos/teste-do-mapa-google
