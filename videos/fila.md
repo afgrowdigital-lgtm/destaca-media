@@ -6,7 +6,11 @@ Os vídeos chegam do Afonso pelo chat; a edição (legendas + final da marca + l
 Regra de destino (pela duração do vídeo final):
 - **mais de 15 s → reel**: sai num horário de carrossel (ter 20:30, qua 13:00, qui 8:30), alternando com os carrosséis (ver `feed.md`).
 - **15 s ou menos → story**: às 12:37, alternando com os stories de imagem — se o último story em `stories/registo.md` foi `vídeo`, hoje é imagem; se foi imagem e há story de vídeo por publicar, hoje é vídeo.
-Publica-se sempre o mais antigo "por publicar" do tipo certo. Ao publicar, troca o estado para `publicado AAAA-MM-DD`.
+**Ordem de publicação (do tipo certo):**
+1. Primeiro, os itens com estado `por publicar · prioridade até AAAA-MM-DD` cuja data ainda não passou (o mais antigo primeiro).
+2. Depois, o mais antigo `por publicar` normal.
+3. Item com `até AAAA-MM-DD` já passada → não publicar; trocar o estado para `expirado`.
+Ao publicar, troca o estado para `publicado AAAA-MM-DD` (apagando o resto).
 
 Formato: `slug | tipo | duração | adicionado | estado`
 
@@ -31,3 +35,7 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - pergunta-horario-feriados | story | 11.4 s | 2026-11-01 | por publicar
 - erro-responder-tarde | story | 12.1 s | 2026-11-01 | por publicar
 - site-trabalha-24h | story | 10.5 s | 2026-11-01 | por publicar
+- bf-promocao-que-ninguem-ve | reel | 22.0 s | 2026-11-04 | por publicar · prioridade até 2026-11-27
+- bf-prepara-agora | reel | 20.7 s | 2026-11-04 | por publicar · prioridade até 2026-11-27
+- bf-faltam-poucas-semanas | story | 11.8 s | 2026-11-04 | por publicar · prioridade até 2026-11-27
+- bf-oferta-no-perfil-google | story | 11.7 s | 2026-11-04 | por publicar · prioridade até 2026-11-27
