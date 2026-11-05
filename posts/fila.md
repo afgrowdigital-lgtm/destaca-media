@@ -10,7 +10,7 @@ Ao publicar, troca o estado para `publicado AAAA-MM-DD` (apagando o resto) e acr
 
 Formato: `slug | tipo | adicionado | estado`
 
-- bf-desconto-nao-e-estrategia | carrossel | 2026-11-04 | por publicar · prioridade até 2026-11-27
+- bf-desconto-nao-e-estrategia | carrossel | 2026-11-04 | publicado 2026-11-05
 - bf-negocio-local-ganha-as-grandes | carrossel | 2026-11-04 | por publicar · prioridade até 2026-11-27
 - bf-erros-que-perdem-vendas | carrossel | 2026-11-04 | por publicar · prioridade até 2026-11-27
 - boca-a-boca-acaba-no-google | carrossel | 2026-11-04 | por publicar
