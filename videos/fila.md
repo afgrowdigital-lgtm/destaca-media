@@ -37,5 +37,5 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - site-trabalha-24h | story | 10.5 s | 2026-11-01 | por publicar
 - bf-promocao-que-ninguem-ve | reel | 22.0 s | 2026-11-04 | por publicar · prioridade até 2026-11-27
 - bf-prepara-agora | reel | 20.7 s | 2026-11-04 | por publicar · prioridade até 2026-11-27
-- bf-faltam-poucas-semanas | story | 11.8 s | 2026-11-04 | por publicar · prioridade até 2026-11-27
+- bf-faltam-poucas-semanas | story | 11.8 s | 2026-11-04 | publicado 2026-11-05
 - bf-oferta-no-perfil-google | story | 11.7 s | 2026-11-04 | por publicar · prioridade até 2026-11-27
