@@ -13,3 +13,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-03 | vídeo | mito-mais-paginas | publicado
 - 2026-11-04 | pergunta | Que palavras escrevem os teus clientes no Google para te encontrar? | publicado
 - 2026-11-05 | vídeo | bf-faltam-poucas-semanas | publicado
+- 2026-11-06 | antes → depois | O título da página no Google: "Início" → "Cabeleireiro em Viseu · Marca hoje" (serviço + cidade) | publicado
