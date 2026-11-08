@@ -1,0 +1,24 @@
+Most small business websites put their most important button in the hardest spot to tap.
+The top corner of a phone screen. Exactly where your thumb doesn't reach.
+
+Steven Hoober watched over 1,300 people using their phones in public. About half were holding it in one hand and tapping with their thumb.
+
+For that visitor, the screen has three zones.
+
+Bottom and middle: easy.
+The edges: a stretch.
+Top corners: a two-handed job.
+
+So when I plan a page, the main action goes where the thumb already is:
+
+1. A "Call" or "Book" button in a bar fixed to the bottom of the screen.
+2. Buttons sized for a thumb, not a mouse. Apple and Google both recommend touch targets of at least 44 to 48 points.
+3. Nothing important hidden behind a tiny menu icon in the corner.
+
+Try this today. Open your own site on your phone, hold it in one hand, and try to contact yourself without using the other.
+
+If you have to shift your grip, so do your customers. Some of them won't bother.
+
+Where does the contact button sit on your mobile site?
+
+#MobileDesign #WebDesign #SmallBusiness

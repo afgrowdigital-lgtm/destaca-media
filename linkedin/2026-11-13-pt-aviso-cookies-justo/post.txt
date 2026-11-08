@@ -1,0 +1,24 @@
+Se no teu site o "Aceitar tudo" é um botão grande e laranja e o "Rejeitar" é um link cinzento escondido, tens um problema.
+De confiança e, muito provavelmente, de RGPD.
+
+No relatório de 2023 sobre avisos de cookies, as autoridades europeias de proteção de dados (CEPD) foram claras: recusar tem de ser tão simples como aceitar.
+
+Na prática, um aviso justo cumpre quatro coisas:
+
+"Aceitar" e "Rejeitar" no mesmo ecrã, com o mesmo tamanho e destaque.
+
+Nenhuma opção já marcada à partida.
+
+Nenhum cookie de estatística ou publicidade a carregar antes de a pessoa escolher.
+
+Uma forma fácil de mudar de ideias mais tarde, por exemplo um link no rodapé.
+
+Antes de mexer no aviso, vale a pena fazer outra pergunta: precisas mesmo desses cookies todos?
+
+Muitos sites de pequenos negócios carregam ferramentas que ninguém abre há meses.
+
+Menos ferramentas, aviso mais simples, site mais rápido. E quem visita percebe que levas os dados dele a sério.
+
+Qual destes quatro pontos falha no aviso de cookies do teu site?
+
+#RGPD #Cookies #PequenosNegocios
