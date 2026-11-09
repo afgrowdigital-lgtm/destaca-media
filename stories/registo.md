@@ -16,3 +16,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-06 | antes → depois | O título da página no Google: "Início" → "Cabeleireiro em Viseu · Marca hoje" (serviço + cidade) | publicado
 - 2026-11-07 | vídeo | bf-oferta-no-perfil-google | publicado
 - 2026-11-08 | cta suave | Quando te procuram no Google, o que encontram? Manda SITE por mensagem | publicado
+- 2026-11-09 | vídeo | pergunta-chamadas-google | publicado
