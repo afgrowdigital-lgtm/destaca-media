@@ -17,3 +17,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-07 | vídeo | bf-oferta-no-perfil-google | publicado
 - 2026-11-08 | cta suave | Quando te procuram no Google, o que encontram? Manda SITE por mensagem | publicado
 - 2026-11-09 | vídeo | pergunta-chamadas-google | publicado
+- 2026-11-10 | mito ou verdade | "Sem loja física, não apareço no Google Maps" → Mito: área de serviço no Perfil Google e morada escondida | publicado
