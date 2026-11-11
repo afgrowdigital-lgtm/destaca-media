@@ -23,7 +23,7 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - dica-telefone-no-topo | story | 11.3 s | 2026-10-30 | publicado 2026-11-01
 - mito-mais-paginas | story | 11.1 s | 2026-10-30 | publicado 2026-11-03
 - pergunta-chamadas-google | story | 11.9 s | 2026-10-30 | publicado 2026-11-09
-- erro-fotos-de-banco | story | 11.5 s | 2026-10-30 | por publicar
+- erro-fotos-de-banco | story | 11.5 s | 2026-10-30 | publicado 2026-11-11
 - site-que-diz-o-essencial | story | 9.8 s | 2026-10-30 | por publicar
 - pede-avaliacoes | reel | 21.1 s | 2026-11-01 | por publicar
 - formulario-tres-campos | reel | 21.9 s | 2026-11-01 | por publicar
