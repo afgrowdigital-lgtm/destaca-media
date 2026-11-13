@@ -20,3 +20,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-10 | mito ou verdade | "Sem loja física, não apareço no Google Maps" → Mito: área de serviço no Perfil Google e morada escondida | publicado
 - 2026-11-11 | vídeo | erro-fotos-de-banco | publicado
 - 2026-11-12 | erro comum | Ver o site só no computador: abre-o no telemóvel, como os teus clientes | publicado
+- 2026-11-13 | vídeo | site-que-diz-o-essencial | publicado
