@@ -39,3 +39,13 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - bf-prepara-agora | reel | 20.7 s | 2026-11-04 | publicado 2026-11-12
 - bf-faltam-poucas-semanas | story | 11.8 s | 2026-11-04 | publicado 2026-11-05
 - bf-oferta-no-perfil-google | story | 11.7 s | 2026-11-04 | publicado 2026-11-07
+- pin-no-sitio-certo | reel | 21.9 s | 2026-11-14 | por publicar
+- site-parado-no-tempo | reel | 22.1 s | 2026-11-14 | por publicar
+- montra-arrumada | reel | 22.1 s | 2026-11-14 | por publicar
+- mito-site-caro-e-demorado | reel | 21.7 s | 2026-11-14 | por publicar
+- antes-depois-resposta-fora-de-horas | reel | 21.2 s | 2026-11-14 | por publicar
+- dica-link-whatsapp | story | 11.0 s | 2026-11-14 | por publicar
+- mito-so-cinco-estrelas | story | 11.1 s | 2026-11-14 | por publicar
+- pergunta-pesquisaste-o-teu-negocio | story | 12.0 s | 2026-11-14 | por publicar
+- erro-dois-perfis-google | story | 11.6 s | 2026-11-14 | por publicar
+- ganha-quem-explica-melhor | story | 11.5 s | 2026-11-14 | por publicar
