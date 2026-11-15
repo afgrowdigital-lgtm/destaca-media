@@ -1,0 +1,24 @@
+A página de contacto é a última coisa que alguém vê antes de se tornar cliente.
+Em muitos sites, é só um formulário e um "Contacte-nos".
+
+Caso ilustrativo: um cabeleireiro de bairro.
+
+Antes:
+Título "Contacte-nos", um formulário com 6 campos e mais nada. Sem telefone à vista, sem horário, sem dizer quando chega a resposta.
+
+Depois:
+"Marca o teu corte" no topo.
+Um botão para ligar e outro para WhatsApp, que no telemóvel abrem com um toque.
+O horário logo a seguir.
+Um mapa pequeno e uma linha a dizer onde estacionar.
+O formulário continua lá, mais curto, com "Respondemos no mesmo dia útil".
+
+A diferença é simples. A pessoa escolhe a forma de contacto que lhe dá jeito, em vez de ser obrigada a escrever um email a um site.
+
+Quem está na rua, com o telemóvel numa mão, quase sempre prefere tocar num botão a preencher campos.
+
+Um cuidado: se falas com clientes por WhatsApp, diz isso na política de privacidade do site.
+
+Como é que a maioria dos teus clientes prefere falar contigo?
+
+#WebDesign #PequenosNegocios

@@ -1,0 +1,20 @@
+Uma foto tirada com o telemóvel pode pesar vários megabytes.
+Põe dez na página inicial e o site demora uma eternidade a abrir com dados móveis.
+
+É dos problemas mais comuns que encontro em sites de pequenos negócios. E dos mais fáceis de resolver.
+
+Ninguém precisa de uma foto com 4000 píxeis de largura num ecrã de telemóvel. O browser descarrega-a toda na mesma.
+
+O que faço antes de pôr qualquer imagem num site:
+
+1. Redimensionar para o tamanho em que vai aparecer. Para uma foto a toda a largura, cerca de 1600 píxeis chega.
+2. Converter para WebP, que pesa bastante menos do que o JPG com a mesma qualidade à vista.
+3. Comprimir até ficar, em regra, abaixo dos 200 KB.
+4. Fazer com que as fotos mais abaixo só carreguem quando a pessoa lá chega.
+5. Confirmar que a foto não leva a localização GPS escondida nos metadados. Muita gente nem sabe que ela lá está.
+
+Um teste para hoje: abre o teu site no telemóvel, desliga o Wi-Fi e conta os segundos até veres alguma coisa.
+
+Que página do teu site é a mais lenta a abrir?
+
+#VelocidadeWeb #WebDesign #PequenosNegocios
