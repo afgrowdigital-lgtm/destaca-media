@@ -30,7 +30,7 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - google-nao-e-so-para-grandes | reel | 22.1 s | 2026-11-01 | por publicar
 - preco-a-partir-de | reel | 20.5 s | 2026-11-01 | por publicar
 - antes-depois-diz-o-que-fazes | reel | 21.7 s | 2026-11-01 | por publicar
-- dica-categoria-principal | story | 11.3 s | 2026-11-01 | por publicar
+- dica-categoria-principal | story | 11.3 s | 2026-11-01 | publicado 2026-11-15
 - mito-site-chega | story | 11.4 s | 2026-11-01 | por publicar
 - pergunta-horario-feriados | story | 11.4 s | 2026-11-01 | por publicar
 - erro-responder-tarde | story | 12.1 s | 2026-11-01 | por publicar

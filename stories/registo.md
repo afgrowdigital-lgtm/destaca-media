@@ -22,3 +22,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-12 | erro comum | Ver o site só no computador: abre-o no telemóvel, como os teus clientes | publicado
 - 2026-11-13 | vídeo | site-que-diz-o-essencial | publicado
 - 2026-11-14 | frase da destaca | Ser o melhor da zona não chega se ninguém te encontra (no Google, quem aparece é escolhido) | publicado
+- 2026-11-15 | vídeo | dica-categoria-principal | publicado
