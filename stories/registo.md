@@ -23,3 +23,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-13 | vídeo | site-que-diz-o-essencial | publicado
 - 2026-11-14 | frase da destaca | Ser o melhor da zona não chega se ninguém te encontra (no Google, quem aparece é escolhido) | publicado
 - 2026-11-15 | vídeo | dica-categoria-principal | publicado
+- 2026-11-16 | dica do dia | Lista os teus serviços no Perfil Google, um a um, com uma frase cada | publicado
