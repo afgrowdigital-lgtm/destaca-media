@@ -32,7 +32,7 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - antes-depois-diz-o-que-fazes | reel | 21.7 s | 2026-11-01 | por publicar
 - dica-categoria-principal | story | 11.3 s | 2026-11-01 | publicado 2026-11-15
 - mito-site-chega | story | 11.4 s | 2026-11-01 | publicado 2026-11-17
-- pergunta-horario-feriados | story | 11.4 s | 2026-11-01 | por publicar
+- pergunta-horario-feriados | story | 11.4 s | 2026-11-01 | publicado 2026-11-19
 - erro-responder-tarde | story | 12.1 s | 2026-11-01 | por publicar
 - site-trabalha-24h | story | 10.5 s | 2026-11-01 | por publicar
 - bf-promocao-que-ninguem-ve | reel | 22.0 s | 2026-11-04 | publicado 2026-11-10
