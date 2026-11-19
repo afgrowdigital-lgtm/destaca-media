@@ -13,7 +13,7 @@ Formato: `slug | tipo | adicionado | estado`
 - bf-desconto-nao-e-estrategia | carrossel | 2026-11-04 | publicado 2026-11-05
 - bf-negocio-local-ganha-as-grandes | carrossel | 2026-11-04 | publicado 2026-11-11
 - bf-erros-que-perdem-vendas | carrossel | 2026-11-04 | publicado 2026-11-17
-- boca-a-boca-acaba-no-google | carrossel | 2026-11-04 | por publicar
+- boca-a-boca-acaba-no-google | carrossel | 2026-11-04 | publicado 2026-11-19
 - descricao-do-perfil-google | carrossel | 2026-11-04 | por publicar
 - perguntas-que-o-site-deve-responder | carrossel | 2026-11-04 | por publicar
 - mitos-de-seo | carrossel | 2026-11-04 | por publicar
