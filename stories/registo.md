@@ -28,3 +28,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-18 | pergunta | O teu site diz em que zonas trabalhas? (quem pesquisa "serviço + cidade" quer ver a cidade escrita) | publicado
 - 2026-11-19 | vídeo | pergunta-horario-feriados | publicado
 - 2026-11-20 | antes → depois | Resposta a avaliações: "Obrigado!" → "Obrigado, Ana! Ainda bem que o corte ficou como queria." (nome + detalhe) | publicado
+- 2026-11-21 | vídeo | erro-responder-tarde | publicado
