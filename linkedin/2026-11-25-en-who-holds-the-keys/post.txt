@@ -1,0 +1,22 @@
+Ask a small business owner who owns their website's domain and there's often a pause.
+Sometimes it's in the name of a web designer they haven't spoken to in years.
+
+That's fine until something breaks. The domain expires, email stops working, and nobody has the login to renew it.
+
+Five things that should be in the business's name, not a freelancer's:
+
+1. The domain, with renewal reminders going to an inbox you actually check.
+2. The hosting account.
+3. An admin login for the website.
+4. Your Google Business Profile, with you as owner and anyone else as manager.
+5. Analytics, forms and booking tools that hold customer data.
+
+That last one matters under GDPR. If customer messages sit in an account you can't open, you can't answer someone who asks to see or delete their data.
+
+A good handover leaves the client as owner of everything. The designer gets a separate login the client can remove at any time.
+
+Add a password manager and two-factor sign-in on each account, and check it all once a year.
+
+If your web designer vanished tomorrow, which of these could you still get into?
+
+#SmallBusiness #WebDesign #GDPR

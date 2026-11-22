@@ -1,0 +1,26 @@
+Automating a messy process doesn't fix it.
+It just makes the mess happen faster, at 3am, with nobody watching.
+
+Before looking at any AI tool, I'd suggest a cheaper first step: a sheet of paper.
+
+Pick one task you repeat every week. Booking confirmations, quote follow-ups, invoice reminders.
+
+Then write down exactly what you do:
+
+1. What starts it? An email, a form, a call.
+2. What do you check before acting?
+3. What do you send, and to whom?
+4. What can go wrong, and what happens then?
+5. When is it finished?
+
+If it doesn't fit in five or six lines, it isn't ready to automate. Tidy it first.
+
+If it does, you've just written the brief for the tool. Quite often the answer turns out to be a template and a calendar reminder, not AI at all.
+
+For any step that touches customer data, two more questions: where does that data end up, and who else can see it?
+
+Automation should take the dull part off your plate. The judgement stays with you.
+
+Which weekly task would you hand over first?
+
+#Automation #AIForBusiness #SmallBusiness
