@@ -34,7 +34,7 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - mito-site-chega | story | 11.4 s | 2026-11-01 | publicado 2026-11-17
 - pergunta-horario-feriados | story | 11.4 s | 2026-11-01 | publicado 2026-11-19
 - erro-responder-tarde | story | 12.1 s | 2026-11-01 | publicado 2026-11-21
-- site-trabalha-24h | story | 10.5 s | 2026-11-01 | por publicar
+- site-trabalha-24h | story | 10.5 s | 2026-11-01 | publicado 2026-11-23
 - bf-promocao-que-ninguem-ve | reel | 22.0 s | 2026-11-04 | publicado 2026-11-10
 - bf-prepara-agora | reel | 20.7 s | 2026-11-04 | publicado 2026-11-12
 - bf-faltam-poucas-semanas | story | 11.8 s | 2026-11-04 | publicado 2026-11-05

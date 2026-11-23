@@ -30,3 +30,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-20 | antes → depois | Resposta a avaliações: "Obrigado!" → "Obrigado, Ana! Ainda bem que o corte ficou como queria." (nome + detalhe) | publicado
 - 2026-11-21 | vídeo | erro-responder-tarde | publicado
 - 2026-11-22 | cta suave | Queres aparecer quando procuram o que fazes, perto de ti? Manda SITE por mensagem | publicado
+- 2026-11-23 | vídeo | site-trabalha-24h | publicado
