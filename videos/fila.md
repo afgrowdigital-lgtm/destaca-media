@@ -18,7 +18,7 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - teste-do-mapa-google | reel | 22.0 s | 2026-10-30 | publicado 2026-11-03
 - porque-escolheu-o-concorrente | reel | 21.8 s | 2026-10-30 | publicado 2026-11-04
 - site-lento-perde-clientes | reel | 21.7 s | 2026-10-30 | publicado 2026-11-18
-- mito-so-instagram | reel | 21.9 s | 2026-10-30 | por publicar
+- mito-so-instagram | reel | 21.9 s | 2026-10-30 | publicado 2026-11-24
 - antes-depois-botao-contacto | reel | 21.0 s | 2026-10-30 | por publicar
 - dica-telefone-no-topo | story | 11.3 s | 2026-10-30 | publicado 2026-11-01
 - mito-mais-paginas | story | 11.1 s | 2026-10-30 | publicado 2026-11-03
