@@ -32,3 +32,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-22 | cta suave | Queres aparecer quando procuram o que fazes, perto de ti? Manda SITE por mensagem | publicado
 - 2026-11-23 | vídeo | site-trabalha-24h | publicado
 - 2026-11-24 | mito ou verdade | "Para aparecer no Google, tenho de pagar anúncios" → Mito: o Perfil de Empresa Google é gratuito e aparece no Maps | publicado
+- 2026-11-25 | vídeo | dica-link-whatsapp | publicado
