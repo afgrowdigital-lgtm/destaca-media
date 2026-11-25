@@ -49,3 +49,4 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - pergunta-pesquisaste-o-teu-negocio | story | 12.0 s | 2026-11-14 | por publicar
 - erro-dois-perfis-google | story | 11.6 s | 2026-11-14 | por publicar
 - ganha-quem-explica-melhor | story | 11.5 s | 2026-11-14 | por publicar
+- ia-vs-experiencia | reel | 22.1 s | 2026-11-25 | por publicar
