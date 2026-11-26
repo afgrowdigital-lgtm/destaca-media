@@ -17,3 +17,4 @@ Regra de alternância: num horário de feed, se a última linha for `carrossel` 
 - 2026-11-19 | carrossel | posts/boca-a-boca-acaba-no-google
 - 2026-11-24 | reel | videos/mito-so-instagram
 - 2026-11-25 | carrossel | posts/descricao-do-perfil-google
+- 2026-11-26 | reel | videos/antes-depois-botao-contacto
