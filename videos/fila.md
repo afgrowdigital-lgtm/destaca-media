@@ -45,7 +45,7 @@ Formato: `slug | tipo | duração | adicionado | estado`
 - mito-site-caro-e-demorado | reel | 21.7 s | 2026-11-14 | por publicar
 - antes-depois-resposta-fora-de-horas | reel | 21.2 s | 2026-11-14 | por publicar
 - dica-link-whatsapp | story | 11.0 s | 2026-11-14 | publicado 2026-11-25
-- mito-so-cinco-estrelas | story | 11.1 s | 2026-11-14 | por publicar
+- mito-so-cinco-estrelas | story | 11.1 s | 2026-11-14 | publicado 2026-11-28
 - pergunta-pesquisaste-o-teu-negocio | story | 12.0 s | 2026-11-14 | por publicar
 - erro-dois-perfis-google | story | 11.6 s | 2026-11-14 | por publicar
 - ganha-quem-explica-melhor | story | 11.5 s | 2026-11-14 | por publicar

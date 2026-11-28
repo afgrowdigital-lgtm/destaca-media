@@ -34,3 +34,4 @@ Antes de criar um story novo, lê este ficheiro e não repitas a mensagem princi
 - 2026-11-24 | mito ou verdade | "Para aparecer no Google, tenho de pagar anúncios" → Mito: o Perfil de Empresa Google é gratuito e aparece no Maps | publicado
 - 2026-11-25 | vídeo | dica-link-whatsapp | publicado
 - 2026-11-27 | antes → depois | Nome das fotos do site: "IMG_4021.jpg" → "barbearia-em-braga.jpg" (serviço + cidade) | publicado
+- 2026-11-28 | vídeo | mito-so-cinco-estrelas | publicado
